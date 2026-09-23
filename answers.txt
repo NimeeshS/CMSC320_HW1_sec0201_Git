@@ -9,3 +9,7 @@ Answer: Data science could be applied to the finance field to detect things like
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging takes the changes from two branches and joins them together. Rebasing is laying all of the commits from the feature branch on top of the main branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to hanging out with all my friends.
